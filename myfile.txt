@@ -1,4 +1,4 @@
-リモートブランチへの追加テストZZZZZZZZ
+リモートブランチへの追加テストXXXXX
 aaaaaZZZZz
 bbbbb
 ccccc
